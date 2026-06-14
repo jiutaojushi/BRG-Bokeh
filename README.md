@@ -2,7 +2,7 @@
 
 > **Accepted at IEEE ICME 2026**
 
-**Rui Huang**¹, **Haojie Tao**¹, **Sen Gao**¹, **Qing Guo**²,*
+**Rui Huang**¹, **Haojie Tao**¹, **Sen Gao**¹, **Qing Guo**²,*  
 
 ¹Civil Aviation University of China, Tianjin, China  
 ²Nankai University, Tianjin, China
@@ -15,8 +15,20 @@ Generating consistent bokeh effects for foreground objects in 3D scenes across m
 
 ---
 
+## Paper
+
+The full paper is available in the `paper/` folder:  
+[📄 BRG-Bokeh paper (PDF)](paper/Paper#3019 BRG-Bokeh Boundary-Refined 3DGS Segmentation for Multi-View Consistent Bokeh.pdf)
+
+---
+
+## Supplementary Material
+
+Supplementary materials (additional results, implementation details, etc.) can be found here:  
+[📎 Supplementary Material (PDF)](paper/Paper#3019 supplementary.pdf)
+
+---
+
 ## Pipeline Overview
 
 ![Pipeline Overview](assets/overview-1.png)
-
----
