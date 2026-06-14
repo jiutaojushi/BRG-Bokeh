@@ -18,14 +18,14 @@ Generating consistent bokeh effects for foreground objects in 3D scenes across m
 ## Paper
 
 The full paper is available in the `paper/` folder:  
-[📄 BRG-Bokeh paper (PDF)](paper/Paper#3019 BRG-Bokeh Boundary-Refined 3DGS Segmentation for Multi-View Consistent Bokeh.pdf)
+[📄 Paper (PDF)](paper/Paper%233019%20BRG-Bokeh%20Boundary-Refined%203DGS%20Segmentation%20for%20Multi-View%20Consistent%20Bokeh.pdf)
 
 ---
 
 ## Supplementary Material
 
-Supplementary materials (additional results, implementation details, etc.) can be found here:  
-[📎 Supplementary Material (PDF)](paper/Paper#3019 supplementary.pdf)
+Supplementary materials can be found here:  
+[📎 Supplementary Material (PDF)](paper/Paper%233019%20supplementary.pdf)
 
 ---
 
